@@ -27,6 +27,11 @@ sites:
     check: "tcp-ping"
     assignees:
       - wischweh
+  - name: Test Notifications
+    url: https://b0rken.wischweh.de
+    assignees:
+      - wischweh  
+      
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
