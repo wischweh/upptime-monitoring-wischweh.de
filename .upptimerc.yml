@@ -9,15 +9,15 @@ sites:
       - wischweh
   - name: Wischweh Mobile Consultancy
     url: https://www.mobile-consultancy.de
-     assignees:
+    assignees:
       - wischweh
   - name: Internal Service
     url: $SECRET_SERVICE0
-     assignees:
+    assignees:
       - wischweh
   - name: WTF eG
     url: https://wtf-eg.de
-     assignees:
+    assignees:
       - wischweh
   - name: Mail on Wischweh.de
     url: wischweh.de
