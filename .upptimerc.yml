@@ -1,27 +1,36 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: wischweh # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: Wischweh.de
+    url: https://www.wischweh.de
+    assignees:
+      - wischweh
+  - name: Wischweh Mobile Consultancy
+    url: https://www.mobile-consultancy.de
+     assignees:
+      - wischweh
+  - name: Internal Service
+    url: $SECRET_SERVICE0
+     assignees:
+      - wischweh
+  - name: WTF eG
+    url: https://wtf-eg.de
+     assignees:
+      - wischweh
+  - name: Mail on Wischweh.de
+    url: wischweh.de
+    port: 25
     check: "tcp-ping"
-    ipv6: true
+    assignees:
+      - wischweh
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # baseUrl: /status-websites
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -31,6 +40,15 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
