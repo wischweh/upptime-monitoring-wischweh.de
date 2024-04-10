@@ -29,6 +29,7 @@ sites:
       - wischweh
   - name: Test Notifications
     url: http://b0rken.wischweh.de
+    __dangerous__body_down_if_text_missing: 'This Testserver is currently up!'
     assignees:
       - wischweh  
       
