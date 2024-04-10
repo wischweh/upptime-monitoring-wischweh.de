@@ -28,7 +28,7 @@ sites:
     assignees:
       - wischweh
   - name: Test Notifications
-    url: https://b0rken.wischweh.de
+    url: http://b0rken.wischweh.de
     assignees:
       - wischweh  
       
