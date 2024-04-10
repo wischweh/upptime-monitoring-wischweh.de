@@ -4,36 +4,39 @@
     "url": "https://www.wischweh.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.wischweh.de.ico",
     "slug": "wischweh-de",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1593,
     "timeDay": 1593,
     "timeWeek": 1593,
     "timeMonth": 1593,
     "timeYear": 1593,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-10": 0
+    }
   },
   {
     "name": "Wischweh Mobile Consultancy",
     "url": "https://www.mobile-consultancy.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.mobile-consultancy.de.ico",
     "slug": "wischweh-mobile-consultancy",
-    "status": "up",
-    "uptime": "96.84%",
-    "uptimeDay": "96.84%",
-    "uptimeWeek": "96.84%",
-    "uptimeMonth": "96.84%",
-    "uptimeYear": "96.84%",
+    "status": "down",
+    "uptime": "98.49%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "98.49%",
     "time": 1504,
     "timeDay": 1504,
     "timeWeek": 1504,
     "timeMonth": 1504,
     "timeYear": 1504,
     "dailyMinutesDown": {
+      "2024-04-10": 0,
       "2024-04-09": 17
     }
   },
@@ -42,18 +45,20 @@
     "url": "$SECRET_SERVICE0",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internal-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 994,
     "timeDay": 994,
     "timeWeek": 994,
     "timeMonth": 994,
     "timeYear": 994,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-10": 0
+    }
   },
   {
     "name": "WTF eG",
@@ -108,7 +113,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-10": 30,
+      "2024-04-10": 637,
       "2024-04-09": 433
     }
   }
