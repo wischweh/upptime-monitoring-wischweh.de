@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1608,
-    "timeDay": 1608,
-    "timeWeek": 1608,
-    "timeMonth": 1608,
-    "timeYear": 1608,
+    "time": 1593,
+    "timeDay": 1593,
+    "timeWeek": 1593,
+    "timeMonth": 1593,
+    "timeYear": 1593,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mobile-consultancy.de.ico",
     "slug": "wischweh-mobile-consultancy",
     "status": "up",
-    "uptime": "79.13%",
-    "uptimeDay": "79.13%",
-    "uptimeWeek": "79.13%",
-    "uptimeMonth": "79.13%",
-    "uptimeYear": "79.13%",
-    "time": 1526,
-    "timeDay": 1526,
-    "timeWeek": 1526,
-    "timeMonth": 1526,
-    "timeYear": 1526,
+    "uptime": "96.84%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "96.84%",
+    "uptimeMonth": "96.84%",
+    "uptimeYear": "96.84%",
+    "time": 1504,
+    "timeDay": 1504,
+    "timeWeek": 1504,
+    "timeMonth": 1504,
+    "timeYear": 1504,
     "dailyMinutesDown": {
       "2024-04-09": 17
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1009,
-    "timeDay": 1009,
-    "timeWeek": 1009,
-    "timeMonth": 1009,
-    "timeYear": 1009,
+    "time": 994,
+    "timeDay": 994,
+    "timeWeek": 994,
+    "timeMonth": 994,
+    "timeYear": 994,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 577,
-    "timeWeek": 577,
-    "timeMonth": 577,
-    "timeYear": 577,
+    "time": 566,
+    "timeDay": 566,
+    "timeWeek": 566,
+    "timeMonth": 566,
+    "timeYear": 566,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 134,
-    "timeWeek": 134,
-    "timeMonth": 134,
-    "timeYear": 134,
+    "time": 132,
+    "timeDay": 132,
+    "timeWeek": 132,
+    "timeMonth": 132,
+    "timeYear": 132,
     "dailyMinutesDown": {}
   },
   {
@@ -108,7 +108,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-09": 0
+      "2024-04-10": 30,
+      "2024-04-09": 433
     }
   }
 ]
