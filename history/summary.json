@@ -78,9 +78,9 @@
     "url": "wischweh.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-on-wischweh-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 127,
     "timeMonth": 136,
     "timeYear": 140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-26": 0
+    }
   },
   {
     "name": "Test Notifications",
@@ -97,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/b0rken.wischweh.de.ico",
     "slug": "test-notifications",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.45%",
+    "uptimeYear": "98.46%",
     "time": 983,
     "timeDay": 926,
     "timeWeek": 1053,
